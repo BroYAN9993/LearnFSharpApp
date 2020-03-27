@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "LearnFSharpApp", "LearnFSharpApp\LearnFSharpApp.fsproj", "{2FD0D55A-E11C-48B0-80B6-7B1BCDFB6162}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2FD0D55A-E11C-48B0-80B6-7B1BCDFB6162}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FD0D55A-E11C-48B0-80B6-7B1BCDFB6162}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FD0D55A-E11C-48B0-80B6-7B1BCDFB6162}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FD0D55A-E11C-48B0-80B6-7B1BCDFB6162}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
